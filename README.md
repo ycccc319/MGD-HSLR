@@ -2,9 +2,9 @@
 This repository contains the codes of the MGD-HSLR.
 
 ## Code files (matlab implementation)
-├─demo.m: experimental demonstration on Office31 (resnet50) dataset.
-├─MGDHSLR.m: the implementation of MGD-HSLR.
-├─construct_dataset.m: the construction of the dataset.
+├─demo.m: experimental demonstration on Office31 (resnet50) dataset.<br>
+├─MGDHSLR.m: the implementation of MGD-HSLR.<br>
+├─construct_dataset.m: the construction of the dataset.<br>
 └─utils: some auxiliary functions.
 
 ## Example usage
